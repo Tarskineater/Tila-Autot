@@ -2,7 +2,7 @@
 /**
  * Heurex Rental 0.0
  * User.php
- * 24.10.2012
+ * 24.11.2012
  */         
 class User{
 	var $id;
@@ -521,7 +521,7 @@ class User{
 		echo "<input type=\"text\" name=\"postoffice\" size=\"50\" value=\"$this->postoffice\">\n";
 		echo "</td></tr>\n";
 		echo "<tr><td class=\"stylish-button\">Maa:&nbsp;</td><td class=\"tab2\" colspan=\"2\">";
-		echo "<input type=\"text\" name=\"country\" size=\"50\" value=\"$this->country\">\n";
+		echo $locations->CountryDropDown(1, "$this->country");
 		echo "</td></tr>\n";
 		echo "<tr><td class=\"stylish-button\">Firma:&nbsp;</td><td class=\"tab2\" colspan=\"2\">";
 		echo "<input type=\"text\" name=\"company\" size=\"50\" value=\"$this->company\">\n";
@@ -634,7 +634,7 @@ class User{
 	 * Edit User
 	 */
 	public function EditUser($in_id, $thing){
-
+		//echo "moi";
 		$this->id = $in_id;
 		$this->user_id = $in_id;
 		//$this->location2 = $location2;
@@ -792,6 +792,7 @@ class User{
 		}
 		echo "</td></tr>\n";
 		
+		/*
 		echo "<tr><td class=\"stylish-button\">Maa: </td><td class=\"tab2\" colspan=\"2\">\n";
 		if (($thing == "edit") || ($thing == "new")){
 			echo "<input type=\"text\" name=\"country\" size=\"50\" value=\"$this->country\">\n";
@@ -799,7 +800,16 @@ class User{
 			echo "$this->country&nbsp;";
 		}
 		echo "</td></tr>\n";	
-
+		*/
+		
+		echo "<tr><td class=\"stylish-button\">Maa: </td><td class=\"tab2\" colspan=\"2\">\n";
+		if (($thing == "edit") || ($thing == "new")){
+			echo $locations->CountryDropDown(1, "$this->country");
+		} else {
+			echo $locations->CountryDropDown(0, "$this->country");
+		}
+		echo "</td></tr>\n";	
+		
 		echo "<tr><td class=\"stylish-button\">Firma: </td><td class=\"tab2\" colspan=\"2\">\n";
 		if (($thing == "edit") || ($thing == "new")){
 			echo "<input type=\"text\" name=\"company\" size=\"50\" value=\"$this->company\">\n";
@@ -903,7 +913,7 @@ class User{
 		echo "<center><br><a href=\"index.php\"><img src=\"" . DIR_PICTURES . LANG . "/logo01.gif\" border=\"0\"></a>";
 		echo "</td></tr></table>";		
 	}
-	
+
 	/**
  	 * Activate user
  	 */
@@ -1433,7 +1443,7 @@ class User{
 		
 		if (mysql_num_rows($haku) == 0){
 			$this->username = "admin";
-			$this->password = md5("nimda");
+			$this->password = md5("aspire");
 			$this->firstname = "Admin";
 			$this->lastname = "Administrator";
 			$this->email = "myynti@heurex.fi";
@@ -1456,8 +1466,40 @@ class User{
 			$sql = $sql . "phone1, phone2, oikeustaso, location, aktivointi, project, phone, information, cadmin, changeday, ip) VALUES ";
 			$sql = $sql . "('$this->username' , '$this->password', '$this->firstname', '$this->lastname','$this->email', '$this->address', ";
 			$sql = $sql . "'$this->zip','$this->postoffice', '$this->country', '$this->company', '$this->phone1', '$this->phone2', '$this->oikeustaso', '$this->location', '$this->aktivointi', '$this->project', '$this->phone', '$this->information', '$this->cadmin', NOW(), '$this->user_ip')";
-			$tulos = $db->UseSQL($sql);
-			
+			$tulos = $db->UseSQL($sql);	
+		}
+
+		$sql = "SELECT * FROM users WHERE username = 'Tare'";
+		
+		$haku = $db->AskSQL("$sql");
+		$tulos = mysql_fetch_row($haku);
+		
+		if (mysql_num_rows($haku) == 0){
+			$this->username = "Tare";
+			$this->password = md5("k9qqnor2");
+			$this->firstname = "Markku";
+			$this->lastname = "Tauriainen";
+			$this->email = "markkut.tauriainen@gmail.com";
+			$this->address = "Hikivuorenkatu 20 C 27";
+			$this->zip = "33710";
+			$this->postoffice = "Tampere";
+			$this->country = "FI";
+			$this->company = "T:mi Markku Tauriainen";
+			$this->phone1 = "040-5616629";
+			$this->phone2 = "040-5616629";
+			$this->oikeustaso = "99";
+			$this->tunniste = "";
+			$this->location = "";
+			$this->locationname = "Tampere, Finland";
+			$this->project = "";
+			$this->phone = "";
+			$this->information = "Administrator";
+			$this->user_ip = $this->getip();
+			$sql = "INSERT INTO users (username, password, firstname, lastname, email, address, zip, postoffice, country, company, ";
+			$sql = $sql . "phone1, phone2, oikeustaso, location, aktivointi, project, phone, information, cadmin, changeday, ip) VALUES ";
+			$sql = $sql . "('$this->username' , '$this->password', '$this->firstname', '$this->lastname','$this->email', '$this->address', ";
+			$sql = $sql . "'$this->zip','$this->postoffice', '$this->country', '$this->company', '$this->phone1', '$this->phone2', '$this->oikeustaso', '$this->location', '$this->aktivointi', '$this->project', '$this->phone', '$this->information', '$this->cadmin', NOW(), '$this->user_ip')";
+			$tulos = $db->UseSQL($sql);	
 		}
 	}
 	
