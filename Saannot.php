@@ -1,0 +1,135 @@
+v.14.02.2013
+------------
+Vuokratessasi auton sovittuun hintaan näiltä sivuiltamme vahvistamme vuokrauksen sähköpostilla. Vuokraus aika/hinta on päiväkohtainen eli kokonaisia päiviä sisältävä alkavalta päivältä klo. 10.00 seuraavaan päivään klo 09.00. Kun vuokraus on vahvistettu, ilmoitetaan tästä sähköpostitse.
+
+Vuokrasopimus ei ole voimassa ennen kuin vuokraus on vahvistettu ja maksu on suoritettu. Kun maksu on suoritettu, lähetämme maksutiedotteen (voucherin) sähköpostiosoitteeseesi.
+
+Asiakaspalvelumme antaa lisätietoja.
+
+Kaikki vuokrasopimukset solmitaan vuokraajan kanssa käyttäen hänen yhteystietoja, vaikka maksaja olisikin joku muu. Kenelläkään muulla paitsi sopimuksen solmineella ei ole mitään oikeuksia sopimuksen suhteen. Contracts (Rights of Third Parties) Act1999 pätee.
+
+Tärkeää tietoa
+Maksutiedote (voucher) on esitettävä autovuokraamolle autoa noutaessa. Tila-Autot.com voi kieltäytyä antamasta autoa, jos maksutiedotetta (voucheria) ei ole voitu esittää taikka auton hakija ei ole voinut esittää ajokorttiaan/todistaa henkilöllisyyttään. Henkilöllisyys papereista otetaan toimipisteessä valokopio auton/peräkärryn haku tilanteessa.
+
+Tila-Autot.com ei ole vastuussa mistään kuluista jotka koituvat asiakkaan paikan päällä solmituista sopimuksista tai paikan päällä ostetuista lisäpalveluista. Tila-Autot.com ei myöskään ole vastuussa mikäli vuokra-auton kuljettaja kuljettaa ajoneuvoa alkoholin tai huumeiden vaikutuksen alaisena, aiheuttaa tahallista vahinkoa, ajaa maastossa joka ei ole sopiva autoliikenteelle tai ajaa muuten huolimattomasti. Näissä tapauksissa auton vuokraaja on täysin vastuussa mahdollisista lisäkuluista. Huomioi, että tämä lista ei kata kaikkia seikkoja.
+
+Hintaan sisältyy:
+Vapaat ajokilometrit (paitsi jotkut arvokkaammat autot), kolariturva (katso kolariturva CDW alla), kolmannen osapuolen vastuuvakuutus (katso TÄRKEÄÄ TIETOA ALLA), varkausturva.
+
+HUOM! Ajoneuvot vuokrataan tankki täyteen tankattuna ja täyteen tankattuna ajoneuvo myös pitää palauttaa (johtuen nykyisistä bensan&dieselin hinnoista).
+
+CDW
+-Kolariturva pienentää vuokraajan vastuuosuuden kolaritapauksessa mahdollisen omavastuun ylärajaan saakka, jos kuljettaja ei ollut alkoholin tai huumeiden vaikutuksen alaisena, ei ole aihettanut tahallista vahinkoa, ei ole kuljettanut ajoneuvoa huolimattomasti tai kielletyllä tavalla kuten maastossa, mikä ei ole sovellettu autoliikenteelle, eikä puolestaan ole vuokrannut autoa toiselle. Yleisiä poikkeuksia ovat tuulilasi, renkaat, autonalusta, vara-avaimet, lukon vaihtaminen ja hinausmaksut. Vuokrausehdot poikkeuksien osalta kannattaa tarkistaa autovuokraamolta autoa noutaessasi.
+
+Varkausturva
+(TW) pienentää vuokraajan vastuuosuuden varkaudesta tai varkausyrityksestä johtuneesta vahingosta mahdollisen omavastuun ylärajaan saakka. Mikäli vuokraaja on ollut huolimaton voi hän joutua korvausvastuuseen koko auton hinnasta.
+
+Tärkeää tietoa
+Tarkista huolellisesti vakuutusturvan yksityiskohdat ja poikkeukset autovuokraamolta autoa noutaessasi.
+
+Kolmannen osapuolen vastuuvakutus ei välttämättä korvaa sukulaisia, perheenjäseniä tai samassa osoitteessa pysyvästi asuvia, jotka matkustavat samassa ajoneuvossa autonvuokraajan kanssa. Lisävakuutuksia voi yleensä ostaa autovuokraamolta suoraan tai jotkut lisävakuutukset voivat sisältyä matkavakuutukseen. Tila-Autot.com suosittelee, että jokaisen autonvuokrauksen yhteydessä asiakas tutustuu vakuutusturvaan erittäin huolellisesti ja tarvittaessa hankkii lisävakuutuksen, joka kattaa perheenjäsenet, jotka matkustavat vuokraajan kanssa samassa ajoneuvossa.
+
+Hintaan ei sisälly: 
+Polttoaine, lisätapaturmavakuutus/PAI (ellei sitä ole erikseen mainittu maksutodisteessa/voucherissa), lisävarusteet, omavastuuosuus (ellei sitä ole erikseen mainittu maksutodisteessa/voucherissa), mahdollinen lisämaksu auton vuokrauksesta toimiston aukioloaikojen ulkopuolella, pysäköintimaksut, pysäköintivirhe- ja liikennesakot, mahdollinen lisämaksu johtuen kuljettajan iästä tai lisäkuljettajasta. Kaikki lisämaksut maksetaan paikan päällä. Tietyissä kohteissa on mahdollista ostaa lisävakuutus, joka poistaa tai pienentää vuokraajan omavastuun. Mikäli auto viedään maan rajojen ulkopuolelle voi autonvuokraaja vaatia lisävakuutuksen.
+
+Tila-Autot.com Omavastuun korvaussuoja
+Ajoneuvoa noutaessa pääkuljettajan luottokortilta lukitaan takuuvuokra, jonka suuruus vastaa omavastuun summaa. Auton toimittaja voi veloittaa omavastuun summan pääkuljettajan luottokortilta, jos autolle on sattunut vahinko vuokrauksen aikana. Vuokrausta tehtäessä ehdoissa ja säännöissämme on nähtävillä omavastuun maksimisumma. Tila-Autot.com tarjoaa omavastuunkorvaussuoja tuotteen, joka ostettuna ennen auton noutoa, tarjoaa asiakkaillemme korvauksen omavastuun suuruiseen summaan asti(lukuunottamatta hallinnollisia kuluja), vahingoista, jotka asiakas on ollut velvollinen maksamaan paikalliselle vuokraamolle. Omavastuun korvaussuoja tuote antaa sinulle mahdollisuuden vaatia tätä veloitettua osa-tai kokonaisvakuutta takaisin Tila-Autot.comlta (ehdot ja säännöt pätevät, ole hyvä ja tarkista, mitä vakuutukseen kuuluu ja mitkä ovat yleiset vakuutuksen poikkeukset).
+
+Korvausta hakiessasi on sinun lähetettävä asiakaspalveluumme kopiot seuraavista:
+
+kopio vuokra-auton toimittajan onnettomuusraportista, (tämä tulee täyttää ennen vuokrauksen päättymistä). Poliisiraportti, jos 3. osapuoli on ollut osallisena. Kopio vuokrauksen check in & check out lomakkeesta, josta käy ilmi vahinko, josta maksu on suoritettu. todiste luottokortiltasi veloitetusta summasta. Nämä dokumentit tulee toimittaa asiakaspalveluummme 28 päivän kuluessa vuokra-ajan päätyttyä. 
+
+Yleisien autonvuokrausyrityksien ehtojen mukaan, Tila-Autot.com ei voi korvata kuluja vakuutusehtoihin kuulumattomien osien osalta. Täydet tiedot vakuutuksen pois sulkevista ehdoista voidaan vahvistaa auton toimittajalta ajoneuvoa noudettaessa ja ne käyvät ilmi vuokrausasiakirjoissa, koska ne eroavat maittain ja ajoneuvon toimittajien välillä.
+
+Auton toimittajien yleisimpiin vakuutusehtojen poikkeuksiin kuuluvat:
+
+Vahinko, joka on sattunut ikkunoille, tuulilasille, lasille, auton sisustalle, henkilökohtaisille tavaroille, vanteille ja/tai renkaille, auton katolle tai pohjalle. Jos kuljettaja on ajanut huumeiden ja/tai alkoholin vaikutuksen alaisena. Jos ajoneuvoa on ajanut henkilö, jota vuokraussopimuksessa ei ole merkitty kuljettajaksi. Hinauskulut tai vahingot, jotka ovat hinauksesta autolle sattuneet luvattoman 3. osapuolen toimesta Off-road ajamisesta sattuneet vahingot. Huolimattoman ja tarkkaamattoman ajamisen johdosta sattuneet vahingot mukaanlukien off-road ajaminen ja ajaminen päällystämättömillä teillä (un-tarmacked roads). Vahinko, joka on sattunut autossa olleille matkatavaroille tai matkustajille.
+
+Tapaus, jossa ajoneuvo on varastettu 
+Hallinnolliset kulut, jotka liittyvät autolle sattuneeseen vahinkoon. In Ylläolevissa vakuutuksen poikkeustapauksissa, omavastuun suuruus ei päde ja vuokraajana voit olla velvollinen maksamaan korjausten kokonaiskulut omavastuun ylärajaan saakka sekä sen yli. Jos haluatte lisätietoja Omavastuun korvaussuojasta, voitte ottaa yhteyttä asiakaspalvelukeskukseemme.
+
+Lisätapaturmavakuutus/PAI 
+Lisätapaturmavakuutus voi sisältyä matkavakuutukseen. Tarvittaessa sen voi myös ostaa paikallisesti autonvuokrauspisteestä.
+
+Talletukset / Polttoaine 
+Vuoraamo voi vuokrauksen alkaessa vaatia omavastuun, polttoaineen ja muita kuluja kattavan ennakkotalletuksen. Vuokraajan täytyy vuokrauksen alkaessa esittää voimassa oleva kansainvälinen luottokortti, joka on päävuokraajan ninmissä. Mikäli auto ja lisävarusteet palautetaan siinä kunnossa, kun ne olivat vuokrauksen alkaessa, poistaa autovuokraamo talletuksen vuokrauksen päätyttyä. Joillakin autovuokraamoilla on käytäntönä periä hinta täydestä polttoainesäiliöstä vuokrauksen alkaessa ja asiakas voi palauttaa auton polttoainesäiliö tyhjänä. Jäljellä olevaa polttoainetta ei korvata.
+
+Vuokraus toimipisteen aukioloaikojen ulkopuolella. 
+Tästä koituva mahdollinen palvelumaksu maksetaan paikan päällä. Ilmoitamme mahdollisesta palvelumaksusta asiakkaan vahvistaessa, mihin aikaan auto noudetaan. Mikäli auton nouto tapahtuu toimiston aukiolaikojen ulkopuolella esimerkiksi lennon myöhäisen saapumisen vuoksi, maksetaan mahdollinen palvelumaksu paikan päällä, mikäli tällainen mahdollisuus on kyseisellä lentokentällä. Tila-Autot.com ei ole vastuussa, jos autoa ei voi noutaa toimiston aukioloaikojen ulkopuolella ja asiakasta kehotetaan hankkimaan matkavakuutus joka korvaa lennon myöhäisestä saapumisesta johtuvat lisäkulut.
+
+Kuljettajan ikärajoitukset 
+Kuljettajan minimi-ikä on yleensä 18-vuotta. Useimmat autovuokraamot perivät lisämaksun jos kuljettaja on alle 25-vuotias tai yli 65-vuotias. Ilmoitamme mahdollisesta lisämaksusta varausvaiheessa, kun asiakas ilmoittaa kuljettajan iän. Suuremmissa autoluokissa voi olla korkeampi minimi-ikä. Asiakaspalvelutoimistomme antaa tästä lisätietoja.
+
+Lisäkuljettaja 
+Autovuokraamot voivat periä paikan päällä maksettavan kuljettajan lisämaksun lisäkuljettajista (ellei siitä ole erikseen mainittu maksutodisteessa/voucherissa). Asiakaspalvelumme antaa lisätietoja.
+
+Vuokra-aika / Päivähinnan laskeminen 
+Autovuokra peritään 23 tunnin jaksoina (paitsi useamman päivän vuokrauksessa). Auton noudon jälkeen autovuokraamo perii vuokra-ajan pidentämisestä tai myöhäisestä palauttamisesta paikan päällä, paikallisen hinnaston mukaan, mikä voi olla huomattavasti kalliimpi.
+
+Auton palauttaminen ennen sovitun vuokra-ajan päättymistä tai vuokra-ajan pidentäminen 
+Auton vuokra-aika perustuu niihin päivämääriin ja aikoihin, mitkä löytyvät asiakkaan maksutodisteesta/voucherista, jonka hinta vahvistettiin varausvaiheessa ja on peritty 23 tunnin jaksoina. Mikäli vuokraaja haluaa pidentää vuokra-aikaa tai palauttaa auton maksutodisteessa/voucherissa mainittua aikaa myöhemmin, peritään lisämaksu paikan päällä, paikallisen autovuokraamon hinnaston mukaisesti. Hinnat voivat olla kalliimpia kuin meidän hinnat. Mikäli auto palautetaan ennen maksutodisteessa/voucherissa mainittua palauttamisajankohtaa, Tila-Autot.com ei valitettavasti pysty hyvittämään käyttämätöntä vuokra-aikaa.
+
+Yhdensuuntaiset vuokraukset 
+Yhdensuuntaiset vuokraukset täytyy vahvistaa etukäteen ja niistä voidaan periä paikan päällä maksettava jättömaksu. Ilmoitamme jättömaksun suuruudesta kun olemme vahvistaneet yhdensuuntaisen vuokrauksen paikallisen autovuokraamon kanssa.
+
+Lasten turvaistuimet ja muut lisävarusteet
+Lasten turvistuimet, kattotelineet ja muut lisävarusteet ovat yleensä saatavilla useimissa vuokrakohteissa, mutta niiden saatavuutta emme voi taata. Lisävarusteita ei välttämättä voi käyttää kaikissa ajoneuvoissa. Suomessa lasten turvaistuin on pakollinen. Lisävarusteet tulee varata autonvarauksen yhteydessä ja ne maksetaan paikan päällä.
+
+Vuokra-auton toimitus ja nouto
+Auton vuokraaja voi joutua maksamaan lisämaksun jos auto noudetaan toimiston aukioloaikojen ulkopuolella, vaikka syy olisi lennon myöhäinen saapuminen. Useissa vuokrakohteissa auto voidaan korvausta vastaan toimittaa asiakkaan majoituspaikkaan. Majoituksen tarkka osoite on ilmoitettava varausta tehdessä. Vuokra-autoja ei toimiteta yksityisiin kotiosoitteisiin.
+
+Vuokra-auton kuljettaminen valtion tai osavaltion rajojen ulkopuolelle 
+Auton viemisestä valtion tai osavaltion rajojen ulkopuolelle on ilmoitettava varauksen yhteydessä. Rajaylityksien suhteen voi esiintyä rajoituksia ja paikallisia lisämaksuja.
+
+Muutoksia autonvaraukseen ja autonvarauksen peruutus 
+Mahdolliset peruutukset tai muutokset varaukseen varauksen vahvistuksen jälkeen, mutta 48 tuntia ennen autovuokran alkamista ovat maksuttomia. Jos varauksesta on etukäteen maksettu vain varausmaksu ja se peruutetaan, veloitetaan tästä varausmaksun suuruinen peruutuskulu. 48h sisällä tehtyihin peruutuuksiin, peruutuskulu on 3 vuorokauden vuokraus. Jos varauksesta on maksettu ensin varausmaksu ja peruutus tehdään 48h sisällä auton noudosta, on peruutuskuluina joko varausmaksu tai 3. päivän vuokra, riippuen kumpi on suurempi. Asiakkaan tulee ilmoittaa peruutuksesta kirjallisesti. Huomioithan kuitenkin, että jotkut autovuokraamot voivat periä erillisen peruutuskulun. Mahdollisista autovuokraamon veloittamista erillisistä perutuuskuluista neuvotaan varausta tehtäessä vuokrauksen ehdoissa ja säännöissä.
+
+Mikäli autonvuokraaja ei ole lunastanut autoa, eikä peruunut autonvuokrausta 48 tuntia ennen vuokra-ajan alkamista, tai mikäli autovuokraamo ei suostu luovuttamaan vuokra-autoa vuokraajalle puutteelisten asiakirjojen takia peritään autonvuokraajalta 3 päivän autovuokra.
+
+Muutoksia autonvaraukseen Tila-Autot.com puolesta
+Pidätämme oikeuden välttämättömiin varauksen muutoksiin, myös varauksen vahvistamisen jälkeen. Ilmoitamme kaikista muutoksista mahdollisimman pian ennen vuokra-ajan alkua.
+
+Maksutiedote 
+Maksutiedote/voucher lähetetään asiakkaalle yleensä 48 tunnin sisällä siitä, kun varaus on tehty mikäli saapumistiedot ovat välitetty meille, kuten lentonumero, arvioitu saapumisaika tai paikallinen osoite ja puhelinnumero. Tiettyjen automallien vahvistamiseen voi kulua pidempi aika, mutta tästä ilmoitetaan asiakkaalle varaushetkellä. Tila-Autot.com ei ole vastuussa paikan päällä veloitetuista autonvuokrauksista eikä myöskään, jos autovuokraamo kieltäytyy luovuttamasta autoa asiakkaalle mikäli hänellä ei ole maksutiedotetta/voucheria esittää heille. Vuokraajalla tulee olla auton noudon yhteydessä mukana täysi ja rikkeetön ajokortti sekä passi. Asiakaspalvelutoimistomme antaa lisätietoja.
+
+Ajokortti 
+Autoa vuokraavalla tulee olla voimassa oleva ajokortti Suomesta tai muusta EU- maasta. Mikäli ajokortin teksti ei ole roomalaisin kirjaimin tulee asiakkaan ottaa yhteyttä asiakaspalveluumme vahvistaakseen ajokortin kelpoisuuden. Ajokortti tulee pitää mukana koko autonvuokrauksen ajan viranomaisten mahdollista tarkistusta varten.
+
+Tila-Autot.com ei maksa takaisin autovuokraa mikäli autovuokraamo kieltäytyy luovuttamasta autoa vuokraajalle, koska hänellä ei ole esittää ajokorttia.
+
+Vuokra-auton koko ja malli 
+Kaikki vuokra-autot ovat vakuutettuja maksimimatkustajamäärää varten. Tila-Autot.com ei ole vastuussa auton tilavuudesta, matkustajamäärän ja matkatavaran mahtuvuudesta. Tila-Autot.com:in kotisivuilla on ilmoitettu suurinpiirteinen maksimimatkustajamäärä autokohtaisesti. Tila-Autot.com ei ole vastuussa, jos autovuokraamo kieltäytyy luovuttamasta autoa liian suuren matkustajamäärän takia.
+
+Auton luovutus 
+Autovuokraamot pidättävät oikeuden kieltäytyä luovuttamasta autoa kenellekään kenet he näkevät sopimattomaksi tai joka ei muilta osin täytä kelpoisuusvaatimuksia. Tila-Autot.com ei ole vastuussa matkasuunnitelmien peruuntumisista, takaisinmaksuista, korvauksista tai muista kustannuksista.
+
+Palautteet 
+Kaikki palautteet koskien vuokra-auton laatua tulee ilmoittaa välittömästi autovuokraamolle. Tila-Autot.com ei voi vaikuttaa palautteisiin koskien auton laatua autonvuokrauksen päätyttyä. Kaikki muut palautteet tulee lähettää asiakaspalautetoimistoomme 3 kuukauden sisällä.
+
+Tekninen vika ja liikennevahinko 
+Mikäli autossa ilmenee tekninen vika tai muu virhe, tulee asiasta välittömästi ilmoittaa autovuokraamolle. Autovuokraamon täytyy antaa suostumuksensa auton korjauksesta tai korvaavan auton antamista tilalle.
+
+Liikennevahingon sattuessa vuokraaja on velvollinen ilmoittamaan asiasta paikalliselle poliisille sekä tekemään viipymättä vahinkoilmoituksen autovuokraamolle. Kaikki lomakkeet ja poliisin antama todistus tehdystä ilmoituksesta tulee säilyttää mahdollisia vakuutuskorvausvaatimuksia varten.
+
+Tila-Autot.com toimii autovuokraamojen palvelujen välittäjänä ja solmii autonvuokraussopimuksen vuokra-autoa vuokraavan autovuokraamon kanssa.
+
+Asiakkaat sitoutuvat noudattamaan autovuokraamojen ehtoja ja maan lakeja ja sääntöjä. Tila-Autot.com ei ole vastuussa mistään seuraamuksista tai kuluista, jotka koituvat asiakkaalle seuraavista syistä; menetys, vahinko, vaurio, muutos, yhteiskunnalisista hätätiloista ja lakoista johtuvista muutoksista ja myöhästymisistä, lennonjohdon kiistoista, lentojen peruutuksista tai lentoyhtiön vararikosta, lentokentän tai sataman sulkemisesta tai ruuhkautumisesta, kuljetuksen väistämättömästä teknisesta viasta, tulipalosta, ydinonnettomuudesta, luonnonmullistuksista, säästä ja terrorismista.
+
+Autonvuokrasopimuksesi ehdot 
+Tila-Autot.com voi peruuttaa varauksen rajoitetun tai pikaisen varoitus ajan saatua paikalliselta vuokraajalta. Kaikissa tapauksissa Tila-Autot.com pyrkii vuokraaman vaihtoehtoisen ajoneuvon muilta vuokraajilta, mutta aikoina joilloin auton saatavuus on rajoitettu, voi olla että vuokraus muualta ei voi onnistua. Tapauksissa joissa asiakas on maksanut vuokrauksen etukäteen kokonaisuudessaan ja Tila-Autot.com ilmoittaa viimeistään 48 tuntia ennen hakuaikaa, palautetaan asiakkaalle vuokraus kokonaisuudessaan. Jos ilmoitus tulee 48 tunnin sisällä hakuajasta asiakkaalle palautetaan vuokraus kokonaisuudessaan ja mahdolliset kulut mitä autonvuokrauksen sopimuksen purkaminen on mahdollisesti tuottanut asiakkaalle. Tapauksissa joissa asiakas on maksanut varausmaksun ja Tila-Autot.com ilmoittaa peruutuksesta 7 vuorokautta ennen hakuaikaa, asiakkalle palautetaan autonvuokraus kokonaisuudessaan. Jos peruutus tulee Tila-Autot.comlta 7 vuorokauden sisällä, asiakkaalle palautetaan autonvuokrus kokonaisuudessaan ja mahdolliset lisäkulut peruutuksesta autonvuokrauksen sopimuksen purkamisesta.
+
+On tärkeä tietää kuinka ja missä vaiheessa asiakas solmii sopimuksen, oli se sitten suullinen tai netti-sivujemme kautta. Sopimuksen solmimisen eri vaiheet ovat selvitetty seuraavasti:
+
+Kun teemme tarjouksen puhelimitse tai netti-sivuillamme tarjoamme asiakaalle mahdollisuuden ostaa kyseessä olevat palvelut. Asiakas ei ole hyväksynyt tarjousta ennen kuin painaa Tee Varaus -näppäintä tai hyväksyy tarjouksen suullisesti puhelimessa.
+
+Tila-Autot.com solmii sopimuksen siinä vaiheessa, kun maksu on suoritettu ja asiakkaalle on lähetetty maksutodiste/voucher hänen ostamistaan palveluista. Siinä vaiheessa sopimus on sitova kummallekin osapuolelle.
+
+Tila-Autot.com on vastuussa asiakkaan kärsimistä tappioista, jos sopimuksen purkaminen Tila-Autot.com puolesta aiheuttaa tappion, joka oli varaushetkellä ennakoitavissa. Tappio on ennakoitavissa, kun se on sekä asiakkaan että Tila-Autot.com:in aavistettavissa. Tila-Autot.com ei vastaa välillisistä tappioista tai tappioista, jotka eivät ole ennakoitavissa, eikä myöskään voiton, mahdollisuuksien tai maineen menetyksestä, eikä sijannaistappioista, vahingoista tai kustannuksista.
+
+Tila-Autot.com ei ole vastuussa mikäli Tila-Autot.com käyttämä autovuokraamo ei toteuta varauksessa, maksutodisteessa, vuokrauksessa tai vuokraehdoissa mainittuja palveluja ollenkaan tai toteuttaa ne myöhässä johtuen force majeure tilasta. Force Majeure, joka tässä tarkoittaa kaikkia tapauksia, joihin palvelujen tuottajat eivät voi vaikuttaa. Siinä tapauksessa että force majeure tila jatkuu yli 14 päivää voi Tila-Autot.com perua varauksen tai vuokrauksen ilmoittamalla asiakkaalle kirjallisesti alkuperäiseen laskutusosoitteeseen 14 päivän ennakkovaroituksella.
+
+Nettisivujen käyttöehdot noudattavat Consumer Protection (Distance Selling) Regulations 2000-lakia.
+
+Asiakas on täysin korvausvastuussa kaikista Tila-Autot.com:ille aiheutuneista menoista ja kuluista (myös oikeuskulut) mikäli ne johtuvat asiakkaan vuokraussääntöjen rikkomisesta.
+
+Tila-Autot.com sitoutuu ainoastaan noudattamaan tässä mainittuja vuokrausehtoja.
