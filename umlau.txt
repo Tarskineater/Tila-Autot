@@ -1,0 +1,180 @@
+ä &#228; 
+ö &#246;
+€ &#8364;
+
+		echo "<table width=\"100%\"><tr><td align=\"center\" class=\"stylish-cBack\"><table width=\"100%\"><tr><td class=\"stylish-button\">";
+		echo "Asiakas";
+		echo "</td></tr></table></td></tr></table>";
+		echo "<table width=\"100%\"><tr><td align=\"center\" class=\"stylish-cBack\"><table width=\"100%\">";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">Nimi :</td><td class=\"stylish-cRows\">$this->name</td></tr>";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">Osoite :</td><td class=\"stylish-cRows\">$this->address</td></tr>";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">Postiosoite :</td><td class=\"stylish-cRows\">$this->postoffice</td></tr>";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">Puhelin :</td><td class=\"stylish-cRows\">$this->username0</td></tr>";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">Puhelin2 :</td><td class=\"stylish-cRows\">$this->phone2</td></tr>";
+		echo "<tr><td class=\"stylish-button\" width=\"130\">e-mail :</td><td class=\"stylish-cRows\">$this->email</td></tr>";
+		echo "</table></td></tr></table>";
+		
+		
+if ((isset($_SESSION['LogInUser']->oikeustaso) > 0) && ($page == "varaukset")){
+	//print "<br><br>\n";
+	$aika = time() + 300;
+	//print $aika;
+	//print "$pagestart$logo</td></tr>\n";
+	$puhelinhaku = $phone->HaePuhelimenTiedot(isset($_GET["puhelin"]));
+	//print "$puhelinhaku";
+	$puhelin = $_GET["puhelin"];
+	$sijainti = $phone->HaePuhelimenSijainti($puhelin);
+	
+	if (($user->oikeustaso == $sijainti) || ($user->oikeustaso == 99))
+		print "<tr><td colspan=\"3\"><a onclick=\"return confirmSubmit()\" href=\"index.php?poistapuhelin=1&id=$puhelin&site=$sijainti\"><img src=\"pictures/poista.gif\" border=\"0\" title=\"Poista puhelin järjestelmästä\"></a> <a href=\"index.php?page=paivitapuhelin&id=$puhelin\"><img src=\"pictures/update.gif\" border=\"0\" title=\"Päivitä puhelimen tiedot\"></a></td></tr>";
+	
+	print "<tr><td class=\"td_phonelistheader\" colspan=\"3\">Make new reservation</td></tr>";
+	print "<tr><td class=\"td_phonelistrow\" colspan=\"3\">";
+	print "<form action=\"index.php\" method=\"post\" name=\"varauksenteko\">Reservation starts<br><select name=\"alkupv\">";
+	
+	for ($i=1; $i<32; $i++){
+		$paiva = date("d", $aika);
+		if ($i < 10)
+        	$i = "0$i";
+		print "<option value=\"$i\"";
+		if ($paiva == "$i")
+			print " SELECTED"; 
+		print ">$i</option>\n";
+	}
+	
+	print "</select> . <select name=\"alkukk\">";
+	
+ 	for ($i=1; $i<13; $i++){
+		$kk = date("m", $aika);
+		if ($i < 10)
+        	$i = "0$i";
+  		print "<option value=\"$i\"";
+		if ($kk == "$i")
+     		print " SELECTED";
+		print ">$i</option>\n";
+	}
+	
+	print "</select> . <select name=\"alkuvv\">";
+	
+	for ($i=2005; $i<2016; $i++){
+   		$vuosi = date("Y", $aika);
+		print "<option value=\"$i\"";
+		
+		if ($vuosi == "$i")
+        	print " SELECTED";
+        	
+		print ">$i</option>\n";
+	}
+	
+    print "</select> - <select name=\"alkuhh\">";
+	
+	for ($i=0; $i<24; $i++){
+     		$tunti = date("H", $aika);
+     		
+			if ($i < 10)
+           		$i = "0$i";
+           		
+			print "<option value=\"$i\"";
+			
+			if ($tunti == "$i")
+            	print " SELECTED";
+            	
+			print ">$i</option>\n";
+        }
+        print "</select> : <select name=\"alkumm\">";
+        
+	for ($i=0; $i<60; $i++){
+       		$min = date("i", $aika);
+       		
+			if ($i < 10)
+				$i = "0$i";
+				
+			print "<option value=\"$i\"";
+			
+			if ($min == "$i")
+         		print " SELECTED";
+         		
+			print ">$i</option>\n";
+        }
+        print "</select>";
+        
+	$aika = time() + 7500;
+	print "<br><br>Varaus loppuu<br><select name=\"loppupv\">";
+	
+    for ($i=1; $i<32; $i++){
+			$paiva = date("d", $aika);
+			
+     	if ($i < 10)
+        	$i = "0$i";
+        	
+       	print "<option value=\"$i\"";
+       	
+     	if ($paiva == "$i")
+         	print " SELECTED";
+         	
+    	print ">$i</option>\n";
+    }
+        
+    print "</select> . <select name=\"loppukk\">";
+    
+    for ($i=1; $i<13; $i++){
+ 		$kk = date("m", $aika);
+ 		
+   		if ($i < 10)
+       		$i = "0$i";
+       		
+      	print "<option value=\"$i\"";
+      	
+      	if ($kk == "$i")
+        	print " SELECTED";
+        	
+     	print ">$i</option>\n";
+    }
+    
+    print "</select> . <select name=\"loppuvv\">";
+        
+    for ($i=2005; $i<2016; $i++){
+ 		$vuosi = date("Y", $aika);
+   		print "<option value=\"$i\"";
+ 		if ($vuosi == "$i")
+        	print " SELECTED";
+     	print ">$i</option>\n";
+    }
+    
+    print "</select> - <select name=\"loppuhh\">";
+    
+    for ($i=0; $i<24; $i++){
+  		$tunti = date("H", $aika);
+   		if ($i < 10)
+       		$i = "0$i";
+      	print "<option value=\"$i\"";
+     	if ($tunti == "$i")
+       		print " SELECTED";
+   		print ">$i</option>\n";
+    }
+        
+    print "</select> : <select name=\"loppumm\">";
+    
+	for ($i=0; $i<60; $i++){
+		$min = date("i", $aika);
+    	if ($i < 10)
+      		$i = "0$i";
+      	print "<option value=\"$i\"";
+     	if ($min == "$i")
+         	print " SELECTED";
+  		print ">$i</option>\n";
+    }
+        
+	print "</select><input type=\"hidden\" name=\"puhelin\" value=\"$puhelin\">";
+	print "<br><br><input type=\"submit\" value=\"Save reservation\">"; 
+	print "</form></td></tr>";
+	print "<tr><td class=\"td_phonelistheader\" colspan=\"3\">Reservations</td></tr>";
+	print "<tr><td class=\"td_phonelistheader\">Varaus alkaa</td><td class=\"td_phonelistheader\">Reservation ends</td><td class=\"td_phonelistheader\">Who has it</td></tr>";
+	$varaushaku = $reserve->NaytaPuhelimenTulevatVaraukset(isset($_GET["puhelin"]));
+	print "$varaushaku";
+	print "<tr><td class=\"td_phonelistheader\" colspan=\"3\">Aikaisemmat varaukset (5 viimeisintä)</td></tr>";
+	print "<tr><td class=\"td_phonelistheader\">Varaus alkoi</td><td class=\"td_phonelistheader\">Varaus loppui</td><td class=\"td_phonelistheader\">Varaaja</td></tr>";
+	$varaushaku = $reserve->NaytaPuhelimenAikaisemmatVaraukset(isset($_GET["puhelin"]));
+    print "$varaushaku";
+	print "</table>";
+}
